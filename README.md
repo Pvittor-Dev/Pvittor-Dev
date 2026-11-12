@@ -2,10 +2,6 @@
 
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
-## 👋 Oi, eu sou o Paulo
-
-Assistente de TI e Tecnólogo em Gestão da TI, com foco em **soluções práticas para o dia a dia de equipes comerciais**. Trabalho na TI de vendas de uma distribuidora Nestlé desde 2020 e gosto de transformar problema em **app, automação ou painel**.
-
 <img src="assets/wave.svg" alt="" width="100%">
 
 ## 🧩 O que eu faço
