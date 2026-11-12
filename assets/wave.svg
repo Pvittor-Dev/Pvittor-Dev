@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40" role="presentation"><style>
-:root{--bg:#f0f9ff;--card:#ffffff;--line:#bae6fd;--txt:#0c4a6e;--mut:#64748b;--key:#0369a1;--str:#0891b2;--kw:#7c3aed;--acc:#0ea5e9;--acc2:#38bdf8}
-@media (prefers-color-scheme:dark){:root{--bg:#0b1626;--card:#10233b;--line:#1e3a5f;--txt:#e0f2fe;--mut:#7f9bb8;--key:#7dd3fc;--str:#67e8f9;--kw:#c4b5fd;--acc:#38bdf8;--acc2:#7dd3fc}}
+:root{--bg:#0d1014;--card:#171b21;--line:#2b323c;--txt:#e6edf3;--mut:#8b949e;--key:#7dd3fc;--str:#67e8f9;--kw:#c4b5fd;--acc:#38bdf8;--acc2:#7dd3fc}
 .m{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}
 .s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
 </style>
