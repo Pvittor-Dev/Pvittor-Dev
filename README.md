@@ -74,6 +74,9 @@ Apoio direto às operações de vendas: equipamentos, acessos e sistemas.
 ![Apps Script](https://img.shields.io/badge/Apps%20Script-0b1626?style=flat-square&logo=google&logoColor=7dd3fc)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b1626?style=flat-square&logo=githubactions&logoColor=7dd3fc)
 ![Git](https://img.shields.io/badge/Git-0b1626?style=flat-square&logo=git&logoColor=7dd3fc)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0b1626?style=flat-square&logo=cloudflare&logoColor=7dd3fc)
+![Excel](https://img.shields.io/badge/Excel-0b1626?style=flat-square&logo=microsoftexcel&logoColor=7dd3fc)
+![Python](https://img.shields.io/badge/Python-0b1626?style=flat-square&logo=python&logoColor=7dd3fc)
 
 ## 🚀 Projetos
 
