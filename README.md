@@ -44,15 +44,16 @@ Apoio direto às operações de vendas: equipamentos, acessos e sistemas.
 
 </details>
 
-<details>
-<summary><b>🎓 Formação e trajetória</b></summary>
+<details open>
+<summary><b>📱 Minha experiência com apps</b></summary>
 
 <br>
 
-- **2019:** estágio na área de TI, em vendas
-- **2020:** assistente de TI no departamento de vendas da PAMC
-- **2025:** Tecnólogo em Gestão da TI (Estácio)
-- **Agora:** evoluindo em desenvolvimento de software e automação
+- Desenvolvo **aplicativos Android em Java**, com build via **Gradle**.
+- Já entreguei app que abre um **catálogo web em tela cheia** e gera **PDF da ficha** do produto.
+- Automatizo o **build e a distribuição do APK** para a equipe usando **GitHub Actions**.
+- Crio **automações com Google Apps Script** para tirar tarefa manual do caminho.
+- Desenvolvo olhando para o **uso real** do time de vendas, no celular, no campo.
 
 </details>
 
