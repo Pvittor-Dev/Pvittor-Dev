@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40" role="presentation"><style>
+:root{--bg:#f0f9ff;--card:#ffffff;--line:#bae6fd;--txt:#0c4a6e;--mut:#64748b;--key:#0369a1;--str:#0891b2;--kw:#7c3aed;--acc:#0ea5e9;--acc2:#38bdf8}
+@media (prefers-color-scheme:dark){:root{--bg:#0b1626;--card:#10233b;--line:#1e3a5f;--txt:#e0f2fe;--mut:#7f9bb8;--key:#7dd3fc;--str:#67e8f9;--kw:#c4b5fd;--acc:#38bdf8;--acc2:#7dd3fc}}
+.m{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}
+.s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+</style>
+<path d="M0 20 Q 62 0 125 20 T 250 20 T 375 20 T 500 20 T 625 20 T 750 20 T 875 20 T 1000 20 T 1125 20 T 1250 20" fill="none" stroke="var(--acc)" stroke-width="3" stroke-linecap="round" opacity=".7"><animateTransform attributeName="transform" type="translate" from="0 0" to="-250 0" dur="6s" repeatCount="indefinite"/></path>
+<path d="M0 22 Q 62 36 125 22 T 250 22 T 375 22 T 500 22 T 625 22 T 750 22 T 875 22 T 1000 22 T 1125 22 T 1250 22" fill="none" stroke="var(--acc2)" stroke-width="2" stroke-linecap="round" opacity=".5"><animateTransform attributeName="transform" type="translate" from="-250 0" to="0 0" dur="9s" repeatCount="indefinite"/></path></svg>
