@@ -1,5 +1,18 @@
 <img src="assets/hero.svg" alt="Paulo Victor: dev e TI com experiência em vendas, apps e automação" width="100%">
 
+## 🚀 Projetos
+
+**Painel Financeiro (demo):** painel de contas a pagar e receber, com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. A animação abaixo mostra as duas telas (todos os dados são fictícios).
+
+<a href="https://pvittor-dev.github.io/painel-financeiro-demo/">
+<img src="assets/demo.svg" alt="Demo animada do Painel Financeiro, alternando entre contas a receber e contas a pagar" width="100%">
+</a>
+
+[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
+
+**Consulta de Produtos (Android):** app que abre um catálogo web em tela cheia, com geração de PDF da ficha, build automatizado e distribuição de APK para a equipe. *(Repositório privado)*
+
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
 <img src="assets/wave.svg" alt="" width="100%">
@@ -77,19 +90,6 @@ Apoio direto às operações de vendas: equipamentos, acessos e sistemas.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0b1626?style=flat-square&logo=cloudflare&logoColor=7dd3fc)
 ![Excel](https://img.shields.io/badge/Excel-0b1626?style=flat-square&logo=microsoftexcel&logoColor=7dd3fc)
 ![Python](https://img.shields.io/badge/Python-0b1626?style=flat-square&logo=python&logoColor=7dd3fc)
-
-## 🎬 Demo ao vivo
-
-**Painel Financeiro (demo):** painel de contas a pagar e receber, com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. Todos os dados são fictícios.
-
-[![Ver demo ao vivo](https://img.shields.io/badge/Ver%20demo%20ao%20vivo-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
-[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
-
-## 🚀 Projetos
-
-**Painel Financeiro (demo):** painel de contas a pagar e receber feito em HTML, CSS e JavaScript. [Ver demo](https://pvittor-dev.github.io/painel-financeiro-demo/) · [Repositório](https://github.com/Pvittor-Dev/painel-financeiro-demo)
-
-**Consulta de Produtos (Android):** app que abre um catálogo web em tela cheia, com geração de PDF da ficha, build automatizado e distribuição de APK para a equipe. *(Repositório privado)*
 
 ## 📊 No GitHub
 
