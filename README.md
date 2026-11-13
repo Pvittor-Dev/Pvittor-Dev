@@ -58,8 +58,8 @@ Apoio direto às operações de vendas: equipamentos, acessos e sistemas.
 
 <br>
 
+- Painel de **contas a pagar e receber** para o financeiro (demo pública com dados fictícios)
 - Novos apps e automações para o time de vendas
-- Projetos pessoais publicados aqui no GitHub
 - Evolução em desenvolvimento de software
 
 </details>
@@ -78,7 +78,16 @@ Apoio direto às operações de vendas: equipamentos, acessos e sistemas.
 ![Excel](https://img.shields.io/badge/Excel-0b1626?style=flat-square&logo=microsoftexcel&logoColor=7dd3fc)
 ![Python](https://img.shields.io/badge/Python-0b1626?style=flat-square&logo=python&logoColor=7dd3fc)
 
+## 🎬 Demo ao vivo
+
+**Painel Financeiro (demo):** painel de contas a pagar e receber, com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. Todos os dados são fictícios.
+
+[![Ver demo ao vivo](https://img.shields.io/badge/Ver%20demo%20ao%20vivo-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
+
 ## 🚀 Projetos
+
+**Painel Financeiro (demo):** painel de contas a pagar e receber feito em HTML, CSS e JavaScript. [Ver demo](https://pvittor-dev.github.io/painel-financeiro-demo/) · [Repositório](https://github.com/Pvittor-Dev/painel-financeiro-demo)
 
 **Consulta de Produtos (Android):** app que abre um catálogo web em tela cheia, com geração de PDF da ficha, build automatizado e distribuição de APK para a equipe. *(Repositório privado)*
 
