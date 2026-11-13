@@ -2,7 +2,12 @@
 
 ## 🚀 Projetos
 
-**Painel Financeiro (demo):** painel de contas a pagar e receber, com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. A animação abaixo mostra as duas telas (todos os dados são fictícios).
+<details open>
+<summary><b>📊 Painel Financeiro (demo)</b> · contas a pagar e receber</summary>
+
+<br>
+
+Painel com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. A animação mostra as duas telas (todos os dados são fictícios).
 
 <a href="https://pvittor-dev.github.io/painel-financeiro-demo/">
 <img src="assets/demo.svg" alt="Demo animada do Painel Financeiro, alternando entre contas a receber e contas a pagar" width="100%">
@@ -11,7 +16,23 @@
 [![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
 [![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
 
-**Consulta de Produtos (Android):** app que abre um catálogo web em tela cheia, com geração de PDF da ficha, build automatizado e distribuição de APK para a equipe. *(Repositório privado)*
+</details>
+
+<details open>
+<summary><b>📱 Consulta de Produtos (demo)</b> · app Android com catálogo web</summary>
+
+<br>
+
+App que abre um catálogo web em tela cheia, com busca por código, EAN, nome ou lote, ficha do produto e geração de PDF, com build automatizado e distribuição de APK para a equipe. A versão real é privada; esta demo usa produtos inventados.
+
+<a href="https://pvittor-dev.github.io/consulta-produtos-demo/">
+<img src="assets/demo-consulta.svg" alt="Demo animada da Consulta de Produtos: início, busca por café e ficha do produto com geração de PDF" width="100%">
+</a>
+
+[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/consulta-produtos-demo/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/consulta-produtos-demo)
+
+</details>
 
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
