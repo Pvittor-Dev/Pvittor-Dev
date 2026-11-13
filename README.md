@@ -2,12 +2,12 @@
 
 ## 🚀 Projetos
 
-<details open>
-<summary><b>📊 Painel Financeiro (demo)</b> · contas a pagar e receber</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
-
-Painel com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pendências, busca por código e tema claro/escuro. A animação mostra as duas telas (todos os dados são fictícios).
+**📊 Painel Financeiro (demo)**<br>
+Contas a pagar e receber, com cards de resumo, gráfico de 12 meses, busca por código e tema claro/escuro.
 
 <a href="https://pvittor-dev.github.io/painel-financeiro-demo/">
 <img src="assets/demo.svg" alt="Demo animada do Painel Financeiro, alternando entre contas a receber e contas a pagar" width="100%">
@@ -16,14 +16,11 @@ Painel com cards de resumo, gráfico dos últimos 12 meses, lista de maiores pen
 [![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
 [![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>📱 Consulta de Produtos (demo)</b> · app Android com catálogo web</summary>
-
-<br>
-
-App que abre um catálogo web em tela cheia, com busca por código, EAN, nome ou lote, ficha do produto e geração de PDF, com build automatizado e distribuição de APK para a equipe. A versão real é privada; esta demo usa produtos inventados.
+**📱 Consulta de Produtos (demo)**<br>
+App Android com catálogo web em tela cheia, busca por código, EAN, nome ou lote e ficha em PDF. A versão real é privada.
 
 <a href="https://pvittor-dev.github.io/consulta-produtos-demo/">
 <img src="assets/demo-consulta.svg" alt="Demo animada da Consulta de Produtos: início, busca por café e ficha do produto com geração de PDF" width="100%">
@@ -32,7 +29,11 @@ App que abre um catálogo web em tela cheia, com busca por código, EAN, nome ou
 [![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/consulta-produtos-demo/)
 [![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/consulta-produtos-demo)
 
-</details>
+</td>
+</tr>
+</table>
+
+<sub>Os dois projetos acima são demos com dados fictícios.</sub>
 
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
