@@ -4,52 +4,37 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**📊 Painel Financeiro (demo)**<br>
-Contas a pagar e receber, com cards de resumo, gráfico de 12 meses, busca por código e tema claro/escuro.
+<a href="https://pvittor-dev.github.io/painel-financeiro-demo/"><img src="assets/demo.svg" alt="Demo do Painel Financeiro" width="100%"></a>
 
-<a href="https://pvittor-dev.github.io/painel-financeiro-demo/">
-<img src="assets/demo.svg" alt="Demo animada do Painel Financeiro, alternando entre contas a receber e contas a pagar" width="100%">
-</a>
-
-[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/painel-financeiro-demo/)
-[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/painel-financeiro-demo)
+**📊 Painel Financeiro**<br>
+<sub>Contas a pagar e receber, gráfico de 12 meses e tema claro/escuro.</sub><br>
+<a href="https://pvittor-dev.github.io/painel-financeiro-demo/">▶ Abrir demo</a> · <a href="https://github.com/Pvittor-Dev/painel-financeiro-demo">Código</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**📱 Consulta de Produtos (demo)**<br>
-App Android com catálogo web em tela cheia, busca por código, EAN, nome ou lote e ficha em PDF. A versão real é privada.
+<a href="https://pvittor-dev.github.io/consulta-produtos-demo/"><img src="assets/demo-consulta.svg" alt="Demo da Consulta de Produtos" width="100%"></a>
 
-<a href="https://pvittor-dev.github.io/consulta-produtos-demo/">
-<img src="assets/demo-consulta.svg" alt="Demo animada da Consulta de Produtos: início, busca por café e ficha do produto com geração de PDF" width="100%">
-</a>
-
-[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/consulta-produtos-demo/)
-[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/consulta-produtos-demo)
+**📱 Consulta de Produtos**<br>
+<sub>App Android com catálogo, busca por código ou EAN e ficha em PDF.</sub><br>
+<a href="https://pvittor-dev.github.io/consulta-produtos-demo/">▶ Abrir demo</a> · <a href="https://github.com/Pvittor-Dev/consulta-produtos-demo">Código</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**🗺️ Monitoramento de Vendedores (demo)**<br>
-Painel que cruza visitas de campo (entrada e saída no cliente) com pedidos, por vendedor e dia: mapa com rota e 3D, positivação, alertas e relatórios. A versão real é privada.
+<a href="https://pvittor-dev.github.io/monitoramento-vendedores-demo/"><img src="assets/demo-monitoramento.png" alt="Demo do Monitoramento de Vendedores" width="100%"></a>
 
-<a href="https://pvittor-dev.github.io/monitoramento-vendedores-demo/">
-<img src="assets/demo-monitoramento.png" alt="Painel de monitoramento de vendedores com mapa, cartões do dia, gráficos e lista de vendedores" width="100%">
-</a>
-
-[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/monitoramento-vendedores-demo/)
-[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/monitoramento-vendedores-demo)
+**🗺️ Monitoramento de Vendedores**<br>
+<sub>Visitas de campo × pedidos, com mapa, rota, positivação e relatórios.</sub><br>
+<a href="https://pvittor-dev.github.io/monitoramento-vendedores-demo/">▶ Abrir demo</a> · <a href="https://github.com/Pvittor-Dev/monitoramento-vendedores-demo">Código</a>
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
-<sub>Os três projetos acima são demos com dados fictícios.</sub>
+<sub>Clique na imagem para abrir a demo. Todas usam dados fictícios; as versões reais são privadas.</sub>
 
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
