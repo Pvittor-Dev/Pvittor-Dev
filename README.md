@@ -31,9 +31,25 @@ App Android com catálogo web em tela cheia, busca por código, EAN, nome ou lot
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗺️ Monitoramento de Vendedores (demo)**<br>
+Painel que cruza visitas de campo (entrada e saída no cliente) com pedidos, por vendedor e dia: mapa com rota e 3D, positivação, alertas e relatórios. A versão real é privada.
+
+<a href="https://pvittor-dev.github.io/monitoramento-vendedores-demo/">
+<img src="assets/demo-monitoramento.png" alt="Painel de monitoramento de vendedores com mapa, cartões do dia, gráficos e lista de vendedores" width="100%">
+</a>
+
+[![Abrir demo interativa](https://img.shields.io/badge/Abrir%20demo%20interativa-3f6593?style=for-the-badge&logo=githubpages&logoColor=c0e6fd)](https://pvittor-dev.github.io/monitoramento-vendedores-demo/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-1b3554?style=for-the-badge&logo=github&logoColor=c0e6fd)](https://github.com/Pvittor-Dev/monitoramento-vendedores-demo)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
-<sub>Os dois projetos acima são demos com dados fictícios.</sub>
+<sub>Os três projetos acima são demos com dados fictícios.</sub>
 
 <img src="assets/stack.svg" alt="Tecnologias e áreas de atuação" width="100%">
 
